@@ -72,3 +72,30 @@ nav ul li ul li{
 nav ul li:hover > ul{
     display:initial;
 }
+
+#left{
+    background: #aaa;
+    float: left;
+    width: 250;
+    margin-top: 100;
+    margin-left: 10;
+}
+
+#right{
+    background: #aaa;
+    float: right;
+    width: 250;
+    margin-top: 100;
+    margin-right: 10;  
+}
+
+#center{
+    text-align: left;
+    text-indent: 20;
+    margin-top: 100;
+}
+
+#center p{
+    background: #fff;
+    margin: 0 260 0 260;
+}
