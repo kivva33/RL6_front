@@ -10,7 +10,6 @@
 body{
     height: 100hv;
     background: #aaa;
-
 }
 
 header{
@@ -26,6 +25,8 @@ header{
     box-shadow: 0 5px 10px #333;
     border: 1px solid #333;
 }
+
+
 
 header .logo{
     padding: 25px 30px;
@@ -98,4 +99,24 @@ nav ul li:hover > ul{
 #center p{
     background: #fff;
     margin: 0 260 0 260;
+}
+
+.footer{
+    position: fixed;
+    background-color: #333;
+    right: 0;
+    bottom: 0;
+    text-align: left; 
+    width: 100%;   
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer a{
+    color: #fff;
+    padding: 10px 0 10px 2%;
+}
+
+footer{
+    background: #333;
 }

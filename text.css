@@ -1,0 +1,38 @@
+*{
+    margin: 0 8%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.left{
+    background: #aaa;
+    float: left;
+    width: 140;
+    margin-left: 10;
+}
+
+.left p{
+    padding: 12px;
+    text-align: left;
+}
+
+
+.right{
+    float: right;
+    width: 220;
+    margin-right: 10;
+}
+h1{
+    margin: 10% 0;
+    text-align: center;
+}
+
+ul{
+    background: #fff;
+    margin: 0 27%;
+}
+
